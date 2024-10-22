@@ -3,6 +3,7 @@
 
 ### Title
 - Moose and Drivers: Roadside Mineral Licks as a Hidden Hazard
+- Exploring Moose Behaviour: Roadside Mineral Licks as Hidden Hazards for Drivers
 
 ### Introduction
 
