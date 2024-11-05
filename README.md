@@ -8,6 +8,10 @@ The paper is entitled "Behaviours of moose at roadside mineral licks in British 
 - [Article](/docs/paper.pdf)
 - [Research Outline](/docs/communications.md)
 
+## Product
+
+#### version 1 (2024 Nov.4)
+![](./docs/product/Infographic_Moose-Vehicle%20Collision%20Risk_v1.jpg)
 
 ## Time line
 
