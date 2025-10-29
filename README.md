@@ -58,7 +58,7 @@ Example of my design style. Visit website for more: https://sunshineland.netlify
 
 ## Expected compensation
 
-Between \$900 CAD, with around 30-35 working hours expected for the work 
+Between \$900 to \$1000 CAD, with around 30-35 working hours expected for the work 
 
 | Hours | Task |
 | --- | --- |
